@@ -9555,6 +9555,15 @@ a.text-dark:hover, a.text-dark:focus {
   transform: scale(1.2);
 }
 
+.feature-vids iframe{
+  transition:.5s;
+  transform: scale(0.8);
+}
+
+.feature-vids iframe:hover {
+  transform: scale(1.12);
+}
+
 .product-item .btn:hover {
   color: #D19C97 !important;
 }
